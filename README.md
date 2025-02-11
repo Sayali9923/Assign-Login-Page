@@ -1,4 +1,4 @@
-# SPDP-Assignment-Login-Page
+# SDPD-Assignment-Login-Page
 
 This is a login app made with Kotlin.
 
