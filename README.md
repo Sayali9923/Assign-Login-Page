@@ -1,4 +1,4 @@
-# Assign-Login-Page
+# SPDP-Assignment-Login-Page
 
 This is a login app made with Kotlin.
 
@@ -20,7 +20,7 @@ A login application is a way for users to access a secure system or application 
 - XML Scripts
 
 
-##  Screens ( All screens are responsive )
+##  Screen
    - Login Page
 
 ## 🚀 Features
@@ -28,7 +28,7 @@ A login application is a way for users to access a secure system or application 
 - Social Login
 
 
-## Screens of PalletGram :
+## Screen of Login App :
 
 <table>
   <tr>
